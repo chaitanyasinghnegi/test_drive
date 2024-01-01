@@ -18,6 +18,16 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Hello'),
+      ),
+      body: Center(
+        child: TextButton(
+          onPressed: () async {},
+          child: const Text('Register'),
+        ),
+      ),
+    );
   }
 }
