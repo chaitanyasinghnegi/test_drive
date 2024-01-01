@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802917998810",
+    "project_id": "noble-feat-404013",
+    "storage_bucket": "noble-feat-404013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802917998810:android:a6acf96b509622c2ffc5e3",
+        "android_client_info": {
+          "package_name": "com.example.test_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPOah4ecgFiTF5rFacvtQMiymdFHFJpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
